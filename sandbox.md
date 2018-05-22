@@ -3,7 +3,7 @@ layout: entry
 title:  'Sandbox'
 ---
 
-# Sandbox
+# Sandboxx
 
 This file is intended as a "sandbox" for trying out the editing
 features. Feel free to make changes by clicking the "edit page" link
